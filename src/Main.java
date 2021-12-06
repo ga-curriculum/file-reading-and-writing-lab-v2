@@ -9,7 +9,26 @@ public class Main {
     private static final List<SuperHero> superHeroes = new ArrayList<>();
 
     public static void readFile(String fileName) throws IOException {
-        // TODO read data from the text file
+        File file = new File(fileName);
+        BufferedReader reader = null;
+        try {
+            reader = new BufferedReader(new FileReader(file));
+
+            String currentLine = reader.readLine();
+
+            while (currentLine != null) {
+                SuperHero superhero = new SuperHero();
+                String[] data = currentLine.split(",");
+                superhero.setSuperheroName(data[0]);
+                superhero.setRealName(data[1]);
+                superhero.setPlaceOfBirth(data[2]);
+                superHeroes.add(superhero);
+                currentLine = reader.readLine();
+            }
+        } finally {
+            assert reader != null;
+            reader.close();
+        }
     }
 
     public static void writeFile(String fileName, String name, String result) throws IOException {
