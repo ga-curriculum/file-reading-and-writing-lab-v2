@@ -2,8 +2,7 @@
 |:------------------------:|:----:|:--------:|:--------------------:|
 | File Reading and Writing | Lab  |   1:30   | Suresh Melvin Sigera |
 
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) File Reading and
-Writing
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) File Reading and Writing
 
 ## Initial Setup
 
