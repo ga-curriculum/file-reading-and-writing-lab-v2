@@ -9,11 +9,28 @@
 For instructions on how to fork and clone the lab, please refer to
 this [link](https://git.generalassemb.ly/ENT-JAVA-Accelerator/start-here/blob/main/SETUP.md#how-do-i-fork-and-clone-lessonslabs).
 
-Create an app that quizzes users on superhero trivia. Open the `Superheroes` and start working from there.
+## Exercise
 
-Your app reads the superhero info from an `input.txt` file and stores it in an `ArrayList`. Based on the answers, keep
-count of every right and wrong one. If the number of right answers is greater than wrong ones, declare the user a winner
-and write the user's name and the result of the quiz in an `output.txt` file.
+1.  **Access the Superheroes Project:**
+    -   Open the `Superheroes` project and begin your work from that point.
+2.  **Read Superhero Info:**
+    -   Your application is responsible for reading superhero information from an `input.txt` file.
+    -   Store this information in an `ArrayList` for further processing.
+3.  **Track Correct and Incorrect Answers:**
+    -   As you process the answers, maintain a count of the number of `right` and `wrong` responses.
+4.  **Determine Quiz Result:**
+    -   After processing all the answers, compare the count of `right` answers to the count of `wrong` answers.
+    -   If the number of `right` answers is greater than the number of `wrong` answers, declare the user as the winner of the quiz.
+5.  **Write Result to Output File:**
+    -   If the user is declared the winner, write their name and the result of the quiz to an `output.txt` file.
+
+By following these steps, your application will read superhero information from the input file, tally the counts of correct and incorrect answers, determine the winner based on the results, and finally, save the winner's name and quiz result to the output file.
+
+## Sample output of the program
+
+![image](https://media.git.generalassemb.ly/user/18633/files/0310bb84-6ec6-4a5a-975c-4a14ecf77d2f)
+
+## Additional Resources
 
 Before you start, let's do some research.
 
@@ -22,6 +39,8 @@ Before you start, let's do some research.
 3. [Scanner](https://www.javatpoint.com/Scanner-class)
 
 You can refer to the solution code [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
+**This lab is a deliverable**
 
 ## How to submit the lab
 
