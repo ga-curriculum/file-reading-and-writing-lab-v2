@@ -7,7 +7,7 @@
 ## Initial Setup
 
 For instructions on how to fork and clone the lab, please refer to
-this [link](https://git.generalassemb.ly/ENT-JAVA-Accelerator/start-here/blob/main/SETUP.md#how-do-i-fork-and-clone-lessonslabs).
+this [link](https://github.com/ga-curriculum/start-here-v3/blob/main/SETUP.md#how-do-i-fork-and-clone-lessonslabs).
 
 ## Exercise
 
