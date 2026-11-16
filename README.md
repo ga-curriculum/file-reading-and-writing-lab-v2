@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) File Reading and Writing Lab
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> File Reading and Writing Lab
 
 |          Title           | Type | Duration |       Creator        |
 |:------------------------:|:----:|:--------:|:--------------------:|
@@ -7,7 +7,7 @@
 ## Initial Setup
 
 For instructions on how to fork and clone the lab, please refer to
-this [link](https://git.generalassemb.ly/ENT-JAVA-Accelerator/start-here/blob/main/SETUP.md#how-do-i-fork-and-clone-lessonslabs).
+this [link](https://github.com/ga-curriculum/start-here-v3/blob/main/SETUP.md#how-do-i-fork-and-clone-lessonslabs).
 
 ## Exercise
 
